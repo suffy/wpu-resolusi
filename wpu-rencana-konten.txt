@@ -1,7 +1,7 @@
 rencana konten wpu
 - javascript
 * es6
-* framework javacript
+- framework javacript
 * vue
 * react
 - fundamental data structure
