@@ -2,7 +2,9 @@ rencana konten wpu
 - javascript
 * es6
 * framework javacript
+* vue
 - fundamental data structure
 - php framework
+* laravel
 - interview
 - vlog
